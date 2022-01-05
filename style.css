@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 3%;
+}
+
+hr{
+    color: rgba(221, 34, 34, 0.041);
+    box-shadow: 1vw 1vw 1vw rgb(247, 242, 242);
+    border-radius: 5%;
+    margin: 3%;
+    
+}
+#top-image-id{
+    width: 5%;
+    margin-right: 40%;
+}
+.top-section{
+    display: flex;
+    margin: 0%;
+}
+.top-title{
+    margin-left: 03%;
+}
+#profile-title-id{
+    color: rgb(231, 75, 135);
+    font-size: 200%;
+    font-weight: 900vw;
+}
+.profile-class{
+    display: flex;
+    margin: 3%;
+}
+.icos-title-class{
+    font-size: 50%;
+}
+.icons-class{
+    width: 30%;
+    height: 30%;
+}
+.icons-div-class{
+    margin: 5%;
+}
+.icons-section-class{
+    display: flex;
+    margin: 5%;
+}
+.display-image{
+    width: 30%;
+    padding: 0%;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 1vw 1vw 1vw gray;
+    border-radius: 1%;
+}
+#description-title-id{
+    margin: 3%;
+}
+.description-section{
+    display: flex;
+}
+.developer-class{
+    box-shadow: 2vw 2vw 5vw rgb(250, 247, 247);
+    border-radius: 5%;
+    margin: 3%;
+}
+.developer-icon{
+    width: 5%;
+    height: 10%;
+    color: rgb(231, 75, 135);
+    margin-left: 3%;
+    margin-top: 3%;
+
+}
+.description{
+    margin-left: 3%;
+}
+footer p{
+    font-size: 200%;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10%;
+    text-transform: uppercase;
+    color: rgb(5, 228, 228);
+}
